@@ -7924,7 +7924,7 @@ _.f=_.e=$
 _.a=c},
 qH:function qH(a){this.a=a},
 Fj:function Fj(a){var _=this
-_.d="OS"
+_.d="AFM"
 _.a=null
 _.b=a
 _.c=null},
@@ -55031,8 +55031,8 @@ $.afi=H.b([0,0,0],t.Y)
 $.afj=H.b([0,0,0,0],t.Y)
 $.ajI=function(){var s=H.Q("o*")
 return P.a4(["1","Monday","2","Tuesday","3","Wednesday","4","Thurday","5","Friday","6","Saturday","7","Sunday"],s,s)}()
-$.a9q=function(){var s=H.Q("o*"),r=t._
-return H.b([P.a4(["sub","AFM","name","Mentoring","links",P.a4(["Home","google.com","Attendance","gmail.com"],s,s)],s,r),P.a4(["sub","DBMS","name","Database Management System","links",P.a4(["Home","google.com","Attendance","gmail.com"],s,s)],s,r),P.a4(["sub","OS","name","Operating System","links",P.a4(["Home","google.com","Attendance","gmail.com"],s,s)],s,r),P.a4(["sub","COA","name","Computer Organisation and Architecture","links",P.a4(["Home","http://moodle.mec.ac.in/course/view.php?id=409","Attendance","http://moodle.mec.ac.in/mod/attendance/view.php?id=10118"],s,s)],s,r),P.a4(["sub","GT","name","Graph Theory","links",P.a4(["Home","google.com","Attendance","gmail.com"],s,s)],s,r),P.a4(["sub","OSL","name","OS Lab","links",P.a4(["Home","google.com","Attendance","gmail.com"],s,s)],s,r),P.a4(["sub","DEL","name","Digital Electronics Lab","links",P.a4(["Home","google.com","Attendance","gmail.com"],s,s)],s,r),P.a4(["sub","HUT","name","Professional Ethics","links",P.a4(["Home","google.com","Attendance","gmail.com"],s,s)],s,r),P.a4(["sub","HNRS","name","Honours - Machine Learning","links",P.a4(["Home","google.com","Attendance","gmail.com"],s,s)],s,r),P.a4(["sub","MNR","name","Minor","links",P.a4(["Home","google.com","Attendance","gmail.com"],s,s)],s,r)],H.Q("p<a3<o*,K*>*>"))}()
+$.a9q=function(){var s="http://moodle.mec.ac.in/course/view.php?id=410",r="http://moodle.mec.ac.in/my/",q=H.Q("o*"),p=t._
+return H.b([P.a4(["sub","AFM","name","Mentoring","links",P.a4(["Home","http://moodle.mec.ac.in/course/view.php?id=414","Attendance","http://moodle.mec.ac.in/mod/attendance/view.php?id=9902"],q,q)],q,p),P.a4(["sub","DBMS","name","Database Management System","links",P.a4(["Home","http://moodle.mec.ac.in/course/view.php?id=407","Attendance","http://moodle.mec.ac.in/mod/attendance/view.php?id=10120"],q,q)],q,p),P.a4(["sub","OS","name","Operating System","links",P.a4(["Home","http://moodle.mec.ac.in/course/view.php?id=433","Attendance","http://moodle.mec.ac.in/mod/attendance/view.php?id=10137"],q,q)],q,p),P.a4(["sub","COA","name","Computer Organisation and Architecture","links",P.a4(["Home","http://moodle.mec.ac.in/course/view.php?id=409","Attendance","http://moodle.mec.ac.in/mod/attendance/view.php?id=10118"],q,q)],q,p),P.a4(["sub","GT","name","Graph Theory","links",P.a4(["Home",s,"Attendance",s],q,q)],q,p),P.a4(["sub","OSL","name","OS Lab","links",P.a4(["Home","http://moodle.mec.ac.in/course/view.php?id=459","Attendance","http://moodle.mec.ac.in/mod/attendance/view.php?id=10080"],q,q)],q,p),P.a4(["sub","DEL","name","Digital Electronics Lab","links",P.a4(["Home","http://moodle.mec.ac.in/course/view.php?id=471","Attendance","http://moodle.mec.ac.in/mod/attendance/view.php?id=10205"],q,q)],q,p),P.a4(["sub","HUT","name","Professional Ethics","links",P.a4(["Home","http://moodle.mec.ac.in/course/view.php?id=449","Attendance","http://moodle.mec.ac.in/mod/attendance/view.php?id=10042"],q,q)],q,p),P.a4(["sub","HNRS","name","Honours - Machine Learning","links",P.a4(["Home",r,"Attendance",r],q,q)],q,p),P.a4(["sub","MNR","name","Minor","links",P.a4(["Home",r,"Attendance",r],q,q)],q,p)],H.Q("p<a3<o*,K*>*>"))}()
 $.akc=P.a4(["Home",C.vC,"Attendance",C.vB],H.Q("o*"),H.Q("eP*"))
 $.a9r=function(){var s=t.i
 return H.b([H.b(["DBMS","DBMS","GT","HUT","OSL"],s),H.b(["COA","OS","DBMS","DBMS","DEL"],s),H.b(["HNRS","COA","GT","OS","MNR"],s),H.b(["COA","OS","GT","HNRS","MNR"],s),H.b(["OS","COA","GT","HUT","HNRS"],s)],H.Q("p<x<o*>*>"))}()})();(function lazyInitializers(){var s=hunkHelpers.lazy,r=hunkHelpers.lazyFinal
